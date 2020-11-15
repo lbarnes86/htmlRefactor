@@ -58,11 +58,6 @@ HTML / CSS framework and beginning elements
 ### Screenshots
 ```
 
-
-
-
-
-
 ```
 
 #### Review
