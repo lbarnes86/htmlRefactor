@@ -56,12 +56,12 @@ HTML / CSS framework and beginning elements
 
 
 ### Screenshots
-```
-<img width="1440" alt="Screen Shot 2020-11-15 at 1 14 03 AM" src="https://user-images.githubusercontent.com/70309736/99179929-8f651780-26e7-11eb-93ce-b3a4c9638275.png">
-<img width="1316" alt="Screen Shot 2020-11-15 at 2 04 01 AM" src="https://user-images.githubusercontent.com/70309736/99179932-92f89e80-26e7-11eb-856f-2c120aa90a67.png">
-<img width="1293" alt="Screen Shot 2020-11-15 at 2 04 28 AM" src="https://user-images.githubusercontent.com/70309736/99179933-94c26200-26e7-11eb-8c42-1f1653d73600.png">
 
-```
+<img src="https://user-images.githubusercontent.com/70309736/99179929-8f651780-26e7-11eb-93ce-b3a4c9638275.png">
+<img src="https://user-images.githubusercontent.com/70309736/99179932-92f89e80-26e7-11eb-856f-2c120aa90a67.png">
+<img src="https://user-images.githubusercontent.com/70309736/99179933-94c26200-26e7-11eb-8c42-1f1653d73600.png">
+
+
 
 #### Review
 ```
